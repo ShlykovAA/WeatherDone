@@ -1,6 +1,6 @@
 ## Weather Done
 
-[Click to open site] (https://weather-done.vercel.app/)
+<https://weather-done.vercel.app/>
 
 Hello!
 This is a weather site where you can see the current weather or the weather for the next 120 hours.
