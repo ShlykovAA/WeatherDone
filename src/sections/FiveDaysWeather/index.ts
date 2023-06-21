@@ -1,0 +1,1 @@
+export { FiveDaysWeather } from './FiveDaysWeather';

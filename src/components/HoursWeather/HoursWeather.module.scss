@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  color: black;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+}
+
+.temp {
+  height: 30px;
+  font-size: 1.2rem;
+  margin: 5px 5px;
+}
+
+.img {
+  width: 35px;
+}

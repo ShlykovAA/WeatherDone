@@ -1,0 +1,36 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 400px;
+  height: 400px;
+  box-shadow: 5px 5px 10px black ;
+}
+
+.temp {
+  font-size: 4rem;
+}
+
+.temp_container {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.add_info_container {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 20px;
+}
+
+.loading {
+  font-size: 2rem;
+}
+
+.img {
+  width: 80px;
+}
